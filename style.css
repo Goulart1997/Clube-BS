@@ -1,0 +1,9 @@
+ .navbar-brand, .navbar-brand:visited{
+    color: green;
+}
+.navbar-brand:hover{
+    color: orangered;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    padding: 5px 15px;
+}
